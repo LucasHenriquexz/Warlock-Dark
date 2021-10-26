@@ -10,12 +10,15 @@
 
 # Imagens
 
-<img src="/PROJETO5/7ZsqQA.jpeg" alt="img_1"/>
-<img src="/PROJETO5/8_+_k6.jpeg" alt="img_1"/>
-<img src="/PROJETO5/DSIiND.jpeg" alt="img_1"/>
 <img src="/PROJETO5/d3G1zn (1).jpeg" alt="img_1"/>
-<img src="/PROJETO5/dMaUZ2.jpeg" alt="img_1"/>
+<img src="/PROJETO5/DSIiND.jpeg" alt="img_1"/>
 <img src="/PROJETO5/dRC55O.jpeg" alt="img_1"/>
+<img src="/PROJETO5/7ZsqQA.jpeg" alt="img_1"/>
 <img src="/PROJETO5/logo.png" alt="img_6"/>
+<img src="/PROJETO5/8_+_k6.jpeg" alt="img_1"/>
+
+<img src="/PROJETO5/dMaUZ2.jpeg" alt="img_1"/>
+
+
 
 <

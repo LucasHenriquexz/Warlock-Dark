@@ -11,9 +11,11 @@
 # Imagens
 
 <img src="/PROJETO5/7ZsqQA.jpeg" alt="img_1"/>
-<img src="/PROJETO5/2.png" alt="img_2"/>
-<img src="/PROJETO5/3.png" alt="img_3"/>
-<img src="/PROJETO5/4.png" alt="img_4"/>
+<img src="/PROJETO5/8_+_k6.jpeg" alt="img_1"/>
+<img src="/PROJETO5/DSIiND.jpeg" alt="img_1"/>
+<img src="/PROJETO5/d3G1zn (1).jpeg" alt="img_1"/>
+<img src="/PROJETO5/dMaUZ2.jpeg" alt="img_1"/>
+<img src="/PROJETO5/dRC55O.jpeg" alt="img_1"/>
 <img src="/PROJETO5/logo.png" alt="img_6"/>
 
 <
